@@ -1,1 +1,14 @@
-The artificial intelligence and machine learning courses that people study in 2026 are not very good because they are old. They are usually six to twelve months behind what's currently happening in the field. This project is looking at a way of using natural language processing with multiple agents that can check what students are learning against what is actually happening in the industry right now. The goal of this project is to make sure students are ready to work in the industry when they finish their studies. The Multi-Agent NLP framework is supposed to help with this by making sure the courses are always up to date with the developments in artificial intelligence and machine learning. This way students can be sure they are learning what they need to know to be ready, for the industry.
+# Dynamic Syllabus Researcher (DSR) 🎓🤖
+
+### Subtitle: An Autonomous Multi-Agent NLP Framework for Curriculum Modernization
+
+## 🔬 Research Overview
+In the fast-evolving field of AI/ML, academic syllabi become obsolete within months. **DSR** is a research-driven tool that utilizes a Multi-Agent system to bridge the gap between static university teaching and 2026 industry requirements.
+
+## 🛠 Key Features
+- **Automated NER Extraction:** Extracts core learning objectives from university PDFs.
+- **Real-time Trend Alignment:** Scrapes 2026 research papers and GitHub repos to find "Knowledge Gaps."
+- **Agentic Reasoning:** Uses a "Planner-Critic" loop to suggest syllabus updates without human intervention.
+
+## 📊 Why this is not a Chatbot
+Unlike ChatGPT, DSR is **Proactive**. It doesn't wait for a prompt; it monitors data streams and alerts the educator when a topic is no longer relevant.
